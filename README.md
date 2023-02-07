@@ -1,4 +1,4 @@
-# BART_for_simplification
+# BART_for_Text_Simplification
 
 This repository hold an extract of how to fine-tune a BART model for the text simplification task.
 
